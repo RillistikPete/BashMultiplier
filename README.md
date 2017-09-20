@@ -2,7 +2,7 @@
 Multiplies the first number you enter by the second number you enter.
 
 
-##Basic Multiplier - To Use:
+## Basic Multiplier - To Use:
 
 Clone to directory on your local machine.
 
