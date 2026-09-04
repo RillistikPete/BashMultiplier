@@ -4,5 +4,4 @@
 # chmod +x /path/to/script
 
 
-printf "Hey "
-printf "Shut the fuckup!"
+printf "Hey"
